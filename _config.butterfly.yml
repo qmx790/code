@@ -32,8 +32,9 @@ code_word_wrap: false
 # formal:
 #   icon: link || the description || color
 social:
-  fas fa-envelope: mailto:my@crazywong.com || Email
-  fas fa-rss: /atom.xml || RSS
+  fas fa-envelope: mailto:lizibin5656@gmail.com || Email
+  fab fa-twitter: https://twitter.com/qwm790 || Twitter
+  fab fa-qq: https://qm.qq.com/cgi-bin/qm/qr?k=tcd_Afr9UQCOzW5pZrkOFHlP_Der9MIL&noverify=0&personal_qrcode_source=4 || QQ
 
 # Image (圖片設置)
 # --------------------------------------
