@@ -15,7 +15,7 @@ menu:
     标签: /tags/ || fas fa-tags
     分页: /categories/ || fas fa-folder-open
   文档||fas fa-book:
-    介绍: /_post/introduction
+    介绍: /posts/introduction
   留言板: /messageboard/ || fas fa-comment-dots
 
 # Code Blocks (代碼相關)
